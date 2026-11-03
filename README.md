@@ -16,4 +16,6 @@ Plain guides to getting public and official data as JSON through ready-made Apif
 
 All tools: https://apify.com/nexgendata?fpr=2ayu9b
 
+Full catalog of all 495 NexGenData tools, plus a curated list of Apify actors from other creators: [awesome-apify-actors](https://github.com/TheNextGenNexus/awesome-apify-actors) · [CATALOG.md](https://github.com/TheNextGenNexus/awesome-apify-actors/blob/main/CATALOG.md)
+
 Store links carry a NexGenData referral tag.
