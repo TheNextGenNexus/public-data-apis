@@ -6,6 +6,17 @@ Sources: SEC EDGAR Form D filings, TechCrunch and Y Combinator (funding rounds),
 
 Used to build lead lists of newly funded companies, track investors, and research the advisers and funds behind them.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [How can I get a daily list of companies that just raised money from SEC Form D filings?](https://thenextgennexus.com/daily-list-companies-that-raised-money-sec-form-d/)
+- [Where can I get startup funding rounds data through an API?](https://thenextgennexus.com/2026/10/03/startup-funding-data-public-sources-form-d-techcrunch-yc/)
+- [How can I track changes to a venture capital firm’s portfolio companies automatically?](https://thenextgennexus.com/track-vc-portfolio-changes/)
+- [What are the best Crunchbase alternatives for finding newly funded startups?](https://thenextgennexus.com/vc-sourcing-toolkit/)
+- [How can I build a list of SEC-registered investment advisers in Texas, sorted by assets under management?](https://thenextgennexus.com/texas-sec-registered-investment-advisers-by-aum/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
