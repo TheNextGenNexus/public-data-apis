@@ -6,6 +6,16 @@ Sources: Bilibili keyword search (no login), Xiaohongshu public notes, the publi
 
 Used for China and Japan market research, brand and trend monitoring, and as input for AI agents.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [如何用 API 按关键词批量抓取B站视频数据？](https://thenextgennexus.com/zh/guides/bilibili-video-search/)
+- [如何用 API 获取微博热搜和中国各平台热榜？](https://thenextgennexus.com/zh/guides/weibo-trends/)
+- [中国市场数据全家桶 China Market Data Suite](https://thenextgennexus.com/china/)
+- [🇯🇵 日本市場データツール Japan Data Toolkit](https://thenextgennexus.com/japan/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
