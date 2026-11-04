@@ -6,6 +6,16 @@ Sources are the government registries themselves: the Delaware Division of Corpo
 
 Used for KYC and AML checks, supplier and customer due diligence, VC sourcing and M&A research.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [I need to check whether a Delaware company exists and when it was incorporated. How can I look that up in bulk?](https://thenextgennexus.com/delaware-company-lookup-in-bulk/)
+- [Delaware’s own entity search or a third-party API: which is better for checking many Delaware companies at once?](https://thenextgennexus.com/delaware-entity-search-vs-api/)
+- [What are the best company registry APIs in 2026?](https://thenextgennexus.com/best-company-registry-apis/)
+- [How can I look up Singapore companies by name or UEN from ACRA?](https://thenextgennexus.com/singapore-acra-company-search/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
