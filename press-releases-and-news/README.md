@@ -6,6 +6,15 @@ Sources: PR Newswire (press releases by keyword, topic or date) and AP News (Ass
 
 Used for media monitoring, company news alerts, event-driven trading research and feeding current events to AI agents.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [Does the NexGenData PR Newswire scraper include stock tickers and the full press release text?](https://thenextgennexus.com/nexgendata-pr-newswire-scraper-tickers-full-text/)
+- [How can I track competitor press releases automatically?](https://thenextgennexus.com/track-competitor-press-releases/)
+- [How can I get a live feed of PR Newswire press releases?](https://thenextgennexus.com/press-releases/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
