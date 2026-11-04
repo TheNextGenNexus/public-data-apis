@@ -6,6 +6,15 @@ Sources: Finviz screener pages, the Kalshi public market data, public ETF holdin
 
 Used by analysts, quant researchers and AI agents. Data only, not investment advice.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [What’s the cheapest way for an independent analyst to get ETF holdings data?](https://thenextgennexus.com/cheapest-way-to-get-etf-holdings-data/)
+- [Are unofficial Finviz screener APIs reliable enough to use in a trading workflow?](https://thenextgennexus.com/finviz-screener-api-reliability/)
+- [What tools give me stock, ETF, crypto, FX and bond data as an API?](https://thenextgennexus.com/financial-data-tools/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
