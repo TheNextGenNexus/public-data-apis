@@ -6,6 +6,16 @@ Sources: public LinkedIn job search pages (no login, no cookies) and Singapore's
 
 Used for hiring-signal sales prospecting, labour-market research and job aggregation.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [I’m a solo recruiter with no coding skills. How can I pull LinkedIn job listings into a spreadsheet?](https://thenextgennexus.com/linkedin-jobs-scraper/)
+- [How can I pull open jobs from a company’s Greenhouse, Lever or Ashby careers page?](https://thenextgennexus.com/company-job-board-scraper/)
+- [NexGenData’s LinkedIn Jobs Scraper vs other LinkedIn job scrapers on Apify: what’s the difference?](https://thenextgennexus.com/nexgendata-linkedin-jobs-scraper-vs-other-scrapers/)
+- [LinkedIn’s official job API or a scraper: what are the options for pulling public LinkedIn job listings?](https://thenextgennexus.com/linkedin-jobs-recruiter-stack/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
