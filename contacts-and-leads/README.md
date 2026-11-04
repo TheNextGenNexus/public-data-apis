@@ -6,6 +6,16 @@ Source: the companies' own public websites (home, contact, about and team pages)
 
 Used for B2B lead lists, CRM enrichment and finding sites that run a given technology (a Wappalyzer / BuiltWith alternative).
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [What tool can extract emails and phone numbers from a list of websites?](https://thenextgennexus.com/extract-emails-phone-numbers-from-websites/)
+- [How can I find the email addresses a company publishes on its website?](https://thenextgennexus.com/company-email-finder/)
+- [How can I generate a lead list filtered by job title?](https://thenextgennexus.com/b2b-leads-finder/)
+- [What tools can extract contacts and build B2B prospect lists?](https://thenextgennexus.com/lead-generation-data-tools/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
