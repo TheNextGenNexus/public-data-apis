@@ -6,6 +6,15 @@ Sources: the Australian Securities Exchange (ASX), India's National Stock Exchan
 
 Used by analysts, funds and compliance teams following disclosures outside the US.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [I’m a small fund without a data vendor. How can I get ASX company announcements into a spreadsheet?](https://thenextgennexus.com/asx-company-announcements-to-spreadsheet/)
+- [How do I get NSE India corporate announcements with the PDF links automatically?](https://thenextgennexus.com/nse-india-announcements-pdf-links/)
+- [How can I track India SEBI filings like DRHPs and takeover disclosures automatically?](https://thenextgennexus.com/india-sebi-filings/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
