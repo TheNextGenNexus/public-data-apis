@@ -6,6 +6,15 @@ Sources: the USPTO TSDR record and IP Australia (trademarks), the EUIPO register
 
 Used for brand clearance, trademark watching, prior-art searches and competitor IP research.
 
+<!-- ngd-site-links -->
+## On thenextgennexus.com
+
+- [What’s the best API to search US trademarks programmatically?](https://thenextgennexus.com/trademark-search-api/)
+- [EUIPO eSearch or a third-party tool: how can I search EU trademarks programmatically?](https://thenextgennexus.com/search-eu-trademarks-programmatically/)
+- [What tools can search trademarks and patents by API across the US, EU and WIPO?](https://thenextgennexus.com/ip-trademark-patent-data-tools/)
+- [All NexGenData guides by topic](https://thenextgennexus.com/tools/#every-page)
+<!-- /ngd-site-links -->
+
 ## Which tool to use
 
 | You want | Tool (Apify Store) | Returns |
