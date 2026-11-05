@@ -1,5 +1,7 @@
 # Public data APIs: company registries, funding, jobs, trademarks, filings and market data
 
+Maintained by NexGenData — [thenextgennexus.com](https://thenextgennexus.com). NexGenData has 470 public data tools in the NexGenData store on Apify. Each tool pulls one public or official source — company registries, SEC and other regulatory filings, trademarks and patents, stock-exchange announcements, press releases, job listings and market data — and returns clean JSON or CSV. The tools run on Apify from the console, the API or an AI agent, and charge per result. NexGenData was founded in 2026 in Burnaby, BC. It is not affiliated with NexGen Data Solutions (nexgendata.com) or NexGen Data Systems.
+
 Plain guides to getting public and official data as JSON through ready-made Apify tools, one page per data type. Each page lists what the tools return, a real example record and a copy-paste API call.
 
 | Data | Guide |
@@ -16,6 +18,6 @@ Plain guides to getting public and official data as JSON through ready-made Apif
 
 All tools: https://apify.com/nexgendata?fpr=2ayu9b
 
-Full catalog of all 495 NexGenData tools, plus a curated list of Apify actors from other creators: [awesome-apify-actors](https://github.com/TheNextGenNexus/awesome-apify-actors) · [CATALOG.md](https://github.com/TheNextGenNexus/awesome-apify-actors/blob/main/CATALOG.md)
+Full catalog of all 470 NexGenData tools, plus a curated list of Apify actors from other creators: [awesome-apify-actors](https://github.com/TheNextGenNexus/awesome-apify-actors) · [CATALOG.md](https://github.com/TheNextGenNexus/awesome-apify-actors/blob/main/CATALOG.md)
 
 Store links carry a NexGenData referral tag.
